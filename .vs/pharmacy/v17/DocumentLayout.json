@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\irabe\\source\\repos\\pharmacy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2606D5B9-AABA-497B-B927-E63E471B0FEA}|pharmacy\\pharmacy.dwproj|C:\\Users\\irabe\\source\\repos\\pharmacy\\pharmacy\\Pharmacy.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{2606D5B9-AABA-497B-B927-E63E471B0FEA}|pharmacy\\pharmacy.dwproj|solutionrelative:pharmacy\\Pharmacy.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2606D5B9-AABA-497B-B927-E63E471B0FEA}|pharmacy\\pharmacy.dwproj|C:\\Users\\irabe\\source\\repos\\pharmacy\\pharmacy\\\u041F\u043E\u0441\u0442\u0430\u0432\u0449\u0438\u043A\u0438.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{2606D5B9-AABA-497B-B927-E63E471B0FEA}|pharmacy\\pharmacy.dwproj|solutionrelative:pharmacy\\\u041F\u043E\u0441\u0442\u0430\u0432\u0449\u0438\u043A\u0438.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2606D5B9-AABA-497B-B927-E63E471B0FEA}|pharmacy\\pharmacy.dwproj|C:\\Users\\irabe\\source\\repos\\pharmacy\\pharmacy\\\u0410\u043F\u0442\u0435\u043A\u0438.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{2606D5B9-AABA-497B-B927-E63E471B0FEA}|pharmacy\\pharmacy.dwproj|solutionrelative:pharmacy\\\u0410\u043F\u0442\u0435\u043A\u0438.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2606D5B9-AABA-497B-B927-E63E471B0FEA}|pharmacy\\pharmacy.dwproj|C:\\Users\\irabe\\source\\repos\\pharmacy\\pharmacy\\\u0413\u0440\u0443\u043F\u043F\u044B \u0442\u043E\u0432\u0430\u0440\u043E\u0432.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{2606D5B9-AABA-497B-B927-E63E471B0FEA}|pharmacy\\pharmacy.dwproj|solutionrelative:pharmacy\\\u0413\u0440\u0443\u043F\u043F\u044B \u0442\u043E\u0432\u0430\u0440\u043E\u0432.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2606D5B9-AABA-497B-B927-E63E471B0FEA}|pharmacy\\pharmacy.dwproj|C:\\Users\\irabe\\source\\repos\\pharmacy\\pharmacy\\\u041D\u043E\u043C\u0435\u043D\u043A\u043B\u0430\u0442\u0443\u0440\u0430.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{2606D5B9-AABA-497B-B927-E63E471B0FEA}|pharmacy\\pharmacy.dwproj|solutionrelative:pharmacy\\\u041D\u043E\u043C\u0435\u043D\u043A\u043B\u0430\u0442\u0443\u0440\u0430.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2606D5B9-AABA-497B-B927-E63E471B0FEA}|pharmacy\\pharmacy.dwproj|C:\\Users\\irabe\\source\\repos\\pharmacy\\pharmacy\\Pharmacy.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{2606D5B9-AABA-497B-B927-E63E471B0FEA}|pharmacy\\pharmacy.dwproj|solutionrelative:pharmacy\\Pharmacy.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u041F\u043E\u0441\u0442\u0430\u0432\u0449\u0438\u043A\u0438.dim [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\irabe\\source\\repos\\pharmacy\\pharmacy\\\u041F\u043E\u0441\u0442\u0430\u0432\u0449\u0438\u043A\u0438.dim",
+              "RelativeDocumentMoniker": "pharmacy\\\u041F\u043E\u0441\u0442\u0430\u0432\u0449\u0438\u043A\u0438.dim",
+              "ToolTip": "C:\\Users\\irabe\\source\\repos\\pharmacy\\pharmacy\\\u041F\u043E\u0441\u0442\u0430\u0432\u0449\u0438\u043A\u0438.dim [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "pharmacy\\\u041F\u043E\u0441\u0442\u0430\u0432\u0449\u0438\u043A\u0438.dim [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-19T10:15:18.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u0410\u043F\u0442\u0435\u043A\u0438.dim [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\irabe\\source\\repos\\pharmacy\\pharmacy\\\u0410\u043F\u0442\u0435\u043A\u0438.dim",
+              "RelativeDocumentMoniker": "pharmacy\\\u0410\u043F\u0442\u0435\u043A\u0438.dim",
+              "ToolTip": "C:\\Users\\irabe\\source\\repos\\pharmacy\\pharmacy\\\u0410\u043F\u0442\u0435\u043A\u0438.dim [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "pharmacy\\\u0410\u043F\u0442\u0435\u043A\u0438.dim [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-19T10:07:38.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\u0413\u0440\u0443\u043F\u043F\u044B \u0442\u043E\u0432\u0430\u0440\u043E\u0432.dim [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\irabe\\source\\repos\\pharmacy\\pharmacy\\\u0413\u0440\u0443\u043F\u043F\u044B \u0442\u043E\u0432\u0430\u0440\u043E\u0432.dim",
+              "RelativeDocumentMoniker": "pharmacy\\\u0413\u0440\u0443\u043F\u043F\u044B \u0442\u043E\u0432\u0430\u0440\u043E\u0432.dim",
+              "ToolTip": "C:\\Users\\irabe\\source\\repos\\pharmacy\\pharmacy\\\u0413\u0440\u0443\u043F\u043F\u044B \u0442\u043E\u0432\u0430\u0440\u043E\u0432.dim [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "pharmacy\\\u0413\u0440\u0443\u043F\u043F\u044B \u0442\u043E\u0432\u0430\u0440\u043E\u0432.dim [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-19T09:48:52.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "\u041D\u043E\u043C\u0435\u043D\u043A\u043B\u0430\u0442\u0443\u0440\u0430.dim [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\irabe\\source\\repos\\pharmacy\\pharmacy\\\u041D\u043E\u043C\u0435\u043D\u043A\u043B\u0430\u0442\u0443\u0440\u0430.dim",
+              "RelativeDocumentMoniker": "pharmacy\\\u041D\u043E\u043C\u0435\u043D\u043A\u043B\u0430\u0442\u0443\u0440\u0430.dim",
+              "ToolTip": "C:\\Users\\irabe\\source\\repos\\pharmacy\\pharmacy\\\u041D\u043E\u043C\u0435\u043D\u043A\u043B\u0430\u0442\u0443\u0440\u0430.dim [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "pharmacy\\\u041D\u043E\u043C\u0435\u043D\u043A\u043B\u0430\u0442\u0443\u0440\u0430.dim [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-19T08:40:00.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pharmacy.cube [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\irabe\\source\\repos\\pharmacy\\pharmacy\\Pharmacy.cube",
+              "RelativeDocumentMoniker": "pharmacy\\Pharmacy.cube",
+              "ToolTip": "C:\\Users\\irabe\\source\\repos\\pharmacy\\pharmacy\\Pharmacy.cube [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "pharmacy\\Pharmacy.cube [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-19T08:39:11.58Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pharmacy.dsv [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\irabe\\source\\repos\\pharmacy\\pharmacy\\Pharmacy.dsv",
+              "RelativeDocumentMoniker": "pharmacy\\Pharmacy.dsv",
+              "ToolTip": "C:\\Users\\irabe\\source\\repos\\pharmacy\\pharmacy\\Pharmacy.dsv [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "pharmacy\\Pharmacy.dsv [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-19T08:30:33.87Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+﻿<Cube xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="274556eb-46f0-426c-bee1-ed48db205eca" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>Pharmacy</ID>
+  <MeasureGroups>
+    <MeasureGroup>
+      <ID>Fact Income</ID>
+      <Partitions>
+        <Partition dwd:design-time-name="ddfc257c-05c1-4665-ad41-4b08385a8e36">
+          <ID>Fact Income</ID>
+          <Name>Fact Income</Name>
+          <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+          <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+          <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+          <State>Unprocessed</State>
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="8400bee5-3d91-4107-8fd1-32c272a5e9b2">
+            <DataSourceViewID>Pharmacy</DataSourceViewID>
+            <TableID>dbo_fact_income</TableID>
+          </Source>
+          <StorageMode>Molap</StorageMode>
+          <CurrentStorageMode>Molap</CurrentStorageMode>
+          <ProcessingMode>Regular</ProcessingMode>
+        </Partition>
+      </Partitions>
+    </MeasureGroup>
+    <MeasureGroup>
+      <ID>Fact Movegoods</ID>
+      <Partitions>
+        <Partition dwd:design-time-name="6865fa1d-3bf3-4110-90ac-fee8195e1804">
+          <ID>Fact Movegoods</ID>
+          <Name>Fact Movegoods</Name>
+          <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+          <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+          <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+          <State>Unprocessed</State>
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="923705a4-e79e-4b10-b6ea-7ca349dd9263">
+            <DataSourceViewID>Pharmacy</DataSourceViewID>
+            <TableID>dbo_fact_movegoods</TableID>
+          </Source>
+          <StorageMode>Molap</StorageMode>
+          <CurrentStorageMode>Molap</CurrentStorageMode>
+          <ProcessingMode>Regular</ProcessingMode>
+        </Partition>
+      </Partitions>
+    </MeasureGroup>
+    <MeasureGroup>
+      <ID>Fact Receipt</ID>
+      <Partitions>
+        <Partition dwd:design-time-name="90ee24ca-ccc2-447a-bb3c-0092d123db38">
+          <ID>Fact Receipt</ID>
+          <Name>Fact Receipt</Name>
+          <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+          <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+          <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+          <State>Unprocessed</State>
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="8dff253a-236e-4cd5-826b-8b47f3461a97">
+            <DataSourceViewID>Pharmacy</DataSourceViewID>
+            <TableID>dbo_fact_receipt</TableID>
+          </Source>
+          <StorageMode>Molap</StorageMode>
+          <CurrentStorageMode>Molap</CurrentStorageMode>
+          <ProcessingMode>Regular</ProcessingMode>
+        </Partition>
+      </Partitions>
+    </MeasureGroup>
+    <MeasureGroup>
+      <ID>Fact Returns</ID>
+      <Partitions>
+        <Partition dwd:design-time-name="7f8ea24a-ce23-4867-96fa-ac0a03a37f01">
+          <ID>Fact Returns</ID>
+          <Name>Fact Returns</Name>
+          <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+          <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+          <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+          <State>Unprocessed</State>
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="5d01a2a2-202b-4a1b-bffc-bac69fe331e1">
+            <DataSourceViewID>Pharmacy</DataSourceViewID>
+            <TableID>dbo_fact_returns</TableID>
+          </Source>
+          <StorageMode>Molap</StorageMode>
+          <CurrentStorageMode>Molap</CurrentStorageMode>
+          <ProcessingMode>Regular</ProcessingMode>
+        </Partition>
+      </Partitions>
+    </MeasureGroup>
+    <MeasureGroup>
+      <ID>Fact Stock</ID>
+      <Partitions>
+        <Partition dwd:design-time-name="e0ef5a69-3325-4c6e-842c-8d701fabf421">
+          <ID>Fact Stock</ID>
+          <Name>Fact Stock</Name>
+          <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+          <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+          <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+          <State>Unprocessed</State>
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="02c85c57-1d9d-4878-9432-ca2ad82a74c1">
+            <DataSourceViewID>Pharmacy</DataSourceViewID>
+            <TableID>dbo_fact_stock</TableID>
+          </Source>
+          <StorageMode>Molap</StorageMode>
+          <CurrentStorageMode>Molap</CurrentStorageMode>
+          <ProcessingMode>Regular</ProcessingMode>
+        </Partition>
+      </Partitions>
+    </MeasureGroup>
+  </MeasureGroups>
+</Cube>

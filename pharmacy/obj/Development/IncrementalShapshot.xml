@@ -1,0 +1,96 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>pharmacy</Database>
+    <Server>DESKTOP-DMD7MRL\DEVED2</Server>
+    <ConnectionString>Data Source=DESKTOP-DMD7MRL\DEVED2;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>DoNotProcess</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>iVKVul+0lDovSr5Y3EAfo4lbwnQ=15.08.2024 10:18:0815.08.2024 10:18:08</TimeStamp>
+        <ID>
+          <String>Pharmacy</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>4Bb628RWDzFrg8ZiLYiyfoJoOOk=19.08.2024 11:25:5315.08.2024 10:18:27</TimeStamp>
+        <ID>
+          <String>Pharmacy</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>fn7r9E/LDCS7b1QkOLZRA14uv5U=16.08.2024 15:20:4716.08.2024 15:20:47</TimeStamp>
+        <ID>
+          <String>Dim Goods</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>ch8JDZ5VY4BatGItgSpqNylKzNI=15.08.2024 14:11:3415.08.2024 10:19:53</TimeStamp>
+        <ID>
+          <String>Dim Suppliers</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>1VxnPf8Sx0EgXZ/VMAt2wAOubRs=15.08.2024 11:13:4615.08.2024 10:19:53</TimeStamp>
+        <ID>
+          <String>Dim Stores</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>ORSWJiXjEAP56V5HSyn97IKeriM=15.08.2024 11:13:2915.08.2024 10:19:53</TimeStamp>
+        <ID>
+          <String>Dim Manufacturers</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>6cSFeKosvmVWmLVvv8sw6UsdlwI=15.08.2024 11:13:1715.08.2024 10:19:53</TimeStamp>
+        <ID>
+          <String>Dim Goodgroups</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>5sxxsx2m+MyGQURrl99Y0eAEFxQ=15.08.2024 14:04:3215.08.2024 11:47:42</TimeStamp>
+        <ID>
+          <String>Dim Dates</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>SY43c0nyK35XmI8CXK61Lh+F87w=19.08.2024 11:23:1415.08.2024 10:19:52r43ssIHQlo4QJ24mzBgI54HHUCE=19.08.2024 10:33:2815.08.2024 10:19:52</TimeStamp>
+        <ID>
+          <String>Pharmacy</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>/xfUFSsEv6k5WP6qkGw5jpoPNoM=15.08.2024 10:17:3615.08.2024 10:17:36</TimeStamp>
+      <ID>
+        <String>pharmacy</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2024-08-19T08:27:44.57Z</LastDeployed>
+</DeploymentSnapshot>
